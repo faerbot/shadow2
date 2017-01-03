@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "🚏- اهلا بك عزيزي WeLcOmE\n  سورس ديف ساقط  ( DevSaqt )\n\n〰 ➗ 〰 ✖️ 〰 ➕ 〰\nDeveloper ⛳️🏒  :\n🔸 - @ii02ii \nChannel sors 🏈  :\n🔹 - @Ch_Dev \n〰 ➗ 〰 ✖️ 〰 ➕ 〰\n\n🛰 - رابط السورس :\nhttps://github.com/ii02ii/DevSaqt.git : link in githup",
+  about_text = "🚏- اهلا بك عزيزي WeLcOmE\n  سورس شادو  ( DevSaqt )\n\n〰 ➗ 〰 ✖️ 〰 ➕ 〰\nDeveloper ⛳️🏒  :\n🔸 - @ii02ii \nChannel sors 🏈  :\n🔹 - @Ch_Dev \n〰 ➗ 〰 ✖️ 〰 ➕ 〰\n\n🛰 - رابط السورس :\nhttps://github.com/ii02ii/DevSaqt.git : link in githup",
   enabled_plugins = {
     "@ii02ii",
     "FWD",
@@ -67,9 +67,10 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    162961370,
-    260702932,
-    290544647
+   228780431,
+   123017247,
+   244252169,
+   250191888   
   }
 }
 return _
