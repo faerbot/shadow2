@@ -18,7 +18,7 @@ end
 
 return { 
   patterns = { 
-     "^(@ii02ii)$" 
+     "^(@hmode_rap)$" 
   }, 
   run = Memo, 
 } 
